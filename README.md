@@ -1,5 +1,4 @@
 --переменные
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Icehuy/testw/main/README.md"))() 
 local RS = game:GetService("RunService")
 local vc3 = Vector3.new
 local vacbypass2 = true
@@ -19,3 +18,4 @@ local zzs = plr.Character.HumanoidRootPart.CFrame
 local hrppos = hrp.CFrame
 local MovingToPosition = MoveTo
 local AnotherRoot = character.LowerTorso.Root:Clone(0.1)
+-- инвис
